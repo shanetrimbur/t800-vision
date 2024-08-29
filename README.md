@@ -1,7 +1,7 @@
 # T800 Vision
 
 Welcome to the T800 Vision project! This is an early-stage project inspired by the legendary Terminator T800's vision system. The goal is to build an advanced, low-footprint, real-time object detection system that brings the T800's capabilities to everyone. 
-DISCLAIMER: THIS DOES NOT DETECT HUMMUS. WORKING ON THAT FEATURE AND WILL GET BACK TO YOU ASAP!
+DISCLAIMER: THIS DOES NOT DETECT HUMMUS. OR ANYTHING ELSE. ONLY PEOPLE! WORKING ON FIXING THESE BUGS AND WILL GET BACK TO YOU ASAP!
 
 ## Project Overview
 
